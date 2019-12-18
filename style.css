@@ -1,0 +1,118 @@
+h2{
+	color:#7b0e9c;
+	text-align: center;
+}
+
+#image_banniere{
+	width: 100%;
+}
+
+
+.israel{
+	float:left;
+	width: 22%;
+	text-align:justify;
+	padding : 0px 10px 0px;
+	border: 1px solid ;
+	border-radius: 8px;
+	margin-right : 2px;
+	margin-left : 25px;
+}
+
+.voyage {
+	text-align:center;
+}
+.grece{
+	float:left;
+	width: 22%;
+	text-align:justify;
+	padding : 0px 10px 0px;
+	border: 1px solid ;
+	border-radius: 8px;
+	margin-right : 2px;
+	height: 447px;
+}
+
+.guadeloupe{
+	float:left;
+	width: 22%;
+	text-align:justify;
+	padding : 0px 10px 0px;
+	border: 1px solid ;
+	border-radius: 8px;
+	margin-right : 2px;
+	height: 447px;
+}
+
+.londre{
+	float:left;
+	width: 22%;
+	text-align:justify;
+	padding : 0px 10px 0px;
+	border: 1px solid;
+	border-radius: 8px;
+	margin-right : 2px;
+	height: 447px;
+}
+.image_israel2{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+
+.image_grece1{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+.image_guadeloupe1{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+.image_londre1{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+
+.image{
+	float:left;
+	width: 300px;
+	text-align:justify;
+	padding : 0px 10px 0px;
+	border: 1px solid;
+	border-radius: 8px;
+	margin-right : 2px;
+	height: 300px;
+}
+
+
+.bracelet{
+	width: 50%;
+	padding : 0px 10px 0px;
+}
+
+h3{
+	background:#7b0e9c;
+	color:white;
+}
+
+.ami{
+	width:20%;
+}
+
+
+
+
+.famille{
+	width:20%;
+}
+
+.famille2{
+	width:20%;
+}
